@@ -1,0 +1,11 @@
+.process-os.yaml
+.claude/settings.json
+.claude/skills/process-os-*
+CLAUDE.md
+.camunda/backups/
+.camunda/node_modules/
+.camunda/package.json
+.camunda/package-lock.json
+.camunda/LICENSE
+.camunda/NOTICE.txt
+.camunda/PROCESS_OS.md

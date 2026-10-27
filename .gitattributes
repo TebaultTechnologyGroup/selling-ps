@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.bpmn text eol=lf
+*.dmn text eol=lf
+*.form text eol=lf
